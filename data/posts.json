@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "title": "SEO in Next.js",
+    "slug": "seo-nextjs",
+    "content": "Learn how to optimize Next.js for SEO with meta tags, structured data, and performance enhancements.",
+    "image": "/images/posts/seo-nextjs.avif"
+  },
+  {
+    "id": 2,
+    "title": "Image Optimization",
+    "slug": "image-optimization",
+    "content": "Using next/image for better performance, lazy loading, and responsive images.",
+    "image": "/images/posts/image-optimization.jpeg"
+  },
+  {
+    "id": 3,
+    "title": "Caching Strategies in Next.js",
+    "slug": "caching-strategies-nextjs",
+    "content": "How to use ISR, SSR, and static generation for caching and improving performance.",
+    "image": "/images/posts/caching-strategies.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Understanding Server Actions in Next.js",
+    "slug": "server-actions-nextjs",
+    "content": "A guide to the new Server Actions feature in Next.js for handling API calls efficiently.",
+    "image": "/images/posts/server-actions.jpeg"
+  },
+  {
+    "id": 5,
+    "title": "Dynamic Routing in Next.js",
+    "slug": "dynamic-routing-nextjs",
+    "content": "Learn how to implement dynamic routes with app router and file-based routing.",
+    "image": "/images/posts/dynamic-routing.jpg"
+  }
+]
